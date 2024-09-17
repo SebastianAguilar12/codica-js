@@ -1,1 +1,1 @@
-# codica-jsMi primer proyecto en Códica
+# codica-js Mi primer proyecto en Códica
